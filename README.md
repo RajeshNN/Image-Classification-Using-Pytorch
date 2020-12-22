@@ -1,1 +1,2 @@
-# Image-Classification-Using-Pytorch
+# Image Classification Using Pytorch...
+## The objective of this repository is to use transfer learning in Pytorch library to train a model capable of classifying images of ants and bees. The model is designed keeping in mind the limitations of memory and large datasets by incorporating use of custom dataset objects and dataloaders.
